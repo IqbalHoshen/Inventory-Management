@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c86fc8f0-75ea-4304-b96f-72a5056c242c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Uploads/bed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/auth/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/dashboard.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/dashboard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/navigation.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/navigation.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/register.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/register.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/users.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/users.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dashboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/dashboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deleteProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/deleteProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duplicateEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/duplicateEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duplicateUsers.php" beforeDir="false" afterPath="$PROJECT_DIR$/duplicateUsers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/editProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/editProduct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/navigation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products.php" beforeDir="false" afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/users.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/viewProduct.php" beforeDir="false" afterPath="$PROJECT_DIR$/viewProduct.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KZn4iUT4Yf8u46UhyEVAp2wK5W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c86fc8f0-75ea-4304-b96f-72a5056c242c" name="Changes" comment="" />
+      <created>1674190783160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674190783160</updated>
+      <workItem from="1674190786298" duration="1039000" />
+      <workItem from="1674191877357" duration="19000" />
+      <workItem from="1674280759259" duration="5247000" />
+      <workItem from="1674318284352" duration="1217000" />
+      <workItem from="1674489221250" duration="2245000" />
+      <workItem from="1674576063196" duration="4657000" />
+      <workItem from="1674652053291" duration="1688000" />
+      <workItem from="1674825448933" duration="5515000" />
+      <workItem from="1674908486491" duration="4034000" />
+      <workItem from="1675003377191" duration="69000" />
+      <workItem from="1675003511166" duration="51000" />
+      <workItem from="1675270508848" duration="4926000" />
+      <workItem from="1675447723084" duration="2715000" />
+      <workItem from="1676631578392" duration="1214000" />
+      <workItem from="1678211197301" duration="3512000" />
+      <workItem from="1678216432115" duration="6660000" />
+      <workItem from="1678280751038" duration="5668000" />
+      <workItem from="1678300696464" duration="4111000" />
+      <workItem from="1678304855920" duration="3393000" />
+      <workItem from="1678369666370" duration="6748000" />
+      <workItem from="1678450508332" duration="4536000" />
+      <workItem from="1678472293731" duration="10679000" />
+      <workItem from="1678485726449" duration="5001000" />
+      <workItem from="1678533876171" duration="400000" />
+      <workItem from="1678554180043" duration="1499000" />
+      <workItem from="1678566262196" duration="1262000" />
+      <workItem from="1678632556125" duration="57000" />
+      <workItem from="1678711525229" duration="19000" />
+      <workItem from="1679069112333" duration="318000" />
+      <workItem from="1679189626781" duration="1254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
